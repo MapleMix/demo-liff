@@ -9,3 +9,4 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 "# demo-liff" 
 "# choco-demo-liff" 
 "# demo-liff" 
+"# choco-demo-liff" 
